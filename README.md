@@ -14,6 +14,22 @@ AI-native Senior Product Designer with 7+ years scaling B2B and B2C products acr
 - **Leadership and Delivery:** Stakeholder Alignment, Team Mentorship, Roadmap Scoping, Agile, MVP Development
 - **Tools:** Figma, Protopie, Sketch, Adobe Illustrator, After Effects, Firebase, ClickUp
 
+## Selected work
+
+More shots and case studies on [Dribbble](https://dribbble.com/Shabnam98) and in my [portfolio](https://shabnam-betvan-portfolio.lovable.app).
+
+**Featured:** [A little look at my work on Jack Westin](https://dribbble.com/shots/27832791-A-little-look-at-my-work-on-Jack-Westin) · [Portfolio Design](https://dribbble.com/shots/27833070-Portfolio-Design) · [Realms of Aether: Browser 3D Action Game](https://dribbble.com/shots/27832974-Realms-of-Aether-Browser-3D-Action-Game) · [Samples of backend files](https://dribbble.com/shots/27026393-Samples-of-backend-files-as-a-product-designer)
+
+**SaaS, marketplaces & fintech:** [Form Builder case study](https://dribbble.com/shots/25839068-FORM-BUILDER-Case-Study) · [Eco Recycle car marketplace](https://dribbble.com/shots/26995006-Eco-Recycle-Platform-for-sell-and-buy-scrapped-cars) · [Apollon case study](https://dribbble.com/shots/21756912-Apollon-Case-study) · [Cryptocurrency app and website](https://dribbble.com/shots/22805787-Cryptocurrency-application-and-website) · [Cryptocurrency UI/UX](https://dribbble.com/shots/22805886-Cryptocurrency-UI-UX-Design)
+
+**Education & AI:** [StudySnap AI](https://dribbble.com/shots/26845609-Unlock-Learning-with-a-Single-Snap-Meet-StudySnap-AI) · [AI English Speaking Partner](https://dribbble.com/shots/26994220-Your-AI-English-Speaking-Partner) · [AI Planning Exercise App](https://dribbble.com/shots/26997325-AI-Planning-Exercise-App) · [Flippy flash-card app](https://dribbble.com/shots/26409710-Flippy-learning-app-with-flash-card)
+
+**Health & wellness:** [YekZan period tracker case study](https://dribbble.com/shots/22072514-YEKZAN-period-tracker-case-study) · [Period, pregnancy and lactation tracker](https://dribbble.com/shots/27013440-Smart-Period-cycle-pregnancy-and-lactation-tracker-for-women) · [Watch: AI yoga companion](https://dribbble.com/shots/25896237-Watch-Your-AI-Yoga-Companion) · [Diet sections](https://dribbble.com/shots/23938489-Diet-sections)
+
+**Gamification & games:** [Gamification section](https://dribbble.com/shots/26997214-Gamification-Section) · [Achievements reimagined](https://dribbble.com/shots/25265385--Achievements-Reimagined) · [Ludo UI/UX](https://dribbble.com/shots/27003018-Ludo-UI-UX-Design) · [Card game app UI/UX](https://dribbble.com/shots/24996645-Card-Game-App-UI-UX-Design)
+
+**Other:** [Pitch deck](https://dribbble.com/shots/19746301-pitch-deck) · [Development website](https://dribbble.com/shots/18304435-Development-website) · [Pizza app design](https://dribbble.com/shots/17639824-Pizza-App-Design)
+
 ## Experience
 
 **Senior Product Designer & Design System Manager** — Jack Westin (JW+ Admissions) · Remote · *Jan 2026 – Present*
